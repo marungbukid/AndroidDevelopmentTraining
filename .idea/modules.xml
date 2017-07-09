@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_LayoutManagers/01_LayoutManagers.iml" filepath="$PROJECT_DIR$/01_LayoutManagers/01_LayoutManagers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_UIComponents/02_UIComponents.iml" filepath="$PROJECT_DIR$/02_UIComponents/02_UIComponents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_SettingComponentEvents/03_SettingComponentEvents.iml" filepath="$PROJECT_DIR$/03_SettingComponentEvents/03_SettingComponentEvents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_StartingNewActivity/04_StartingNewActivity.iml" filepath="$PROJECT_DIR$/04_StartingNewActivity/04_StartingNewActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_AndroidLifecycle/05_AndroidLifecycle.iml" filepath="$PROJECT_DIR$/05_AndroidLifecycle/05_AndroidLifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_StylingElements/06_StylingElements.iml" filepath="$PROJECT_DIR$/06_StylingElements/06_StylingElements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_LoggingAndDebugging/07_LoggingAndDebugging.iml" filepath="$PROJECT_DIR$/07_LoggingAndDebugging/07_LoggingAndDebugging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_ConnectingToInternet/08_ConnectingToInternet.iml" filepath="$PROJECT_DIR$/08_ConnectingToInternet/08_ConnectingToInternet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_Permissions/09_Permissions.iml" filepath="$PROJECT_DIR$/09_Permissions/09_Permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_AsyncTask/10_AsyncTask.iml" filepath="$PROJECT_DIR$/10_AsyncTask/10_AsyncTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_ListView/11_ListView.iml" filepath="$PROJECT_DIR$/11_ListView/11_ListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_ParsingJson/12_ParsingJson.iml" filepath="$PROJECT_DIR$/12_ParsingJson/12_ParsingJson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_WrappingUp/13_WrappingUp.iml" filepath="$PROJECT_DIR$/13_WrappingUp/13_WrappingUp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidTraining.iml" filepath="$PROJECT_DIR$/AndroidTraining.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/txtFirstTextview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="I'm a TextView with id = txtFirstTextview"/>
+
+    <Button
+        android:id="@+id/btnFirstButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button with id = btnFirstButton"/>
+
+    <EditText
+        android:id="@+id/edtFirstEditText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="I'm an editable text"/>
+
+    <CheckBox
+        android:id="@+id/cbFirstCheckBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="First CheckBox"/>
+
+    <RadioGroup
+        android:id="@+id/rgFirstRadioGroup"
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <RadioButton
+            android:id="@+id/rbFirstRadioBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="First Radio Button"/>
+        <RadioButton
+            android:id="@+id/rbSecondRadioBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Second Radio Button"/>
+        <RadioButton
+            android:id="@+id/rbThirdRadioBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Third Radio Button"/>
+    </RadioGroup>
+
+</LinearLayout>

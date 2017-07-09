@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">13_WrappingUp</string>
+
+    <string name="list.item.film.placeholder.title">Spirited Away</string>
+    <string name="list.item.film.placeholder.id">123-4567-890</string>
+</resources>

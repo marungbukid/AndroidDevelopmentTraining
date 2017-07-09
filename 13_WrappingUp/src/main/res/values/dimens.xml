@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- SPs -->
+    <dimen name="font.14">14sp</dimen>
+    <dimen name="font.24">24sp</dimen>
+
+    <!-- DPs -->
+    <dimen name="padding.16">16dp</dimen>
+
+    <dimen name="margin.listitem.bottom.10">10dp</dimen>
+</resources>
