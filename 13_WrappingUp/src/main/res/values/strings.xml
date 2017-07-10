@@ -2,5 +2,14 @@
     <string name="app_name">13_WrappingUp</string>
 
     <string name="list.item.film.placeholder.title">Spirited Away</string>
-    <string name="list.item.film.placeholder.id">123-4567-890</string>
+    <string name="list.item.film.placeholder.id">123–4567–890</string>
+
+
+    <string name="edittext.username.hint">Username</string>
+    <string name="edittext.password.hint">Password</string>
+
+    <string name="button.login">Login</string>
+    <string name="button.fetch_list">Fetch List</string>
+
+    <string name="textview.loading">Loading.. Please wait.</string>
 </resources>
